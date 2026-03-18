@@ -68,21 +68,6 @@ Flask • REST APIs • NumPy • Pandas
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sandesh2311&theme=radical&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-## 🔝 Top Contributions
-
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Sandesh2311&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
-
----
 
 ## 👀 Profile Views
 
