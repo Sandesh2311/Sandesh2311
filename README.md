@@ -87,7 +87,7 @@ Flask • REST APIs • NumPy • Pandas
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sandesh2311&label=Profile%20Views&color=cyan&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sandesh2311&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
 </p>
 
 ---
